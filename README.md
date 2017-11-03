@@ -1,6 +1,8 @@
 # Bango
 晩御飯のレシピを検索するためのシステム
 
+http://eikatou.bango.s3-website-ap-northeast-1.amazonaws.com/
+
 # 何ができる？
 - レシピを見ることができる（主に画像データ）
 - レシピを材料から検索することができる
